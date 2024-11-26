@@ -84,7 +84,7 @@ class _loginScreenState extends State<loginScreen> {
 
                     ],
                   ),
-                  SizedBox(height: 20,),
+                  SizedBox(height: 22,),
 
                   Text("Forget password !",
                   style: TextStyle(color: Colors.blue,
